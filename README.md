@@ -1,1 +1,1 @@
-# my-diary2
+# my-diary
